@@ -2699,10 +2699,10 @@
         <usage name="Village"/>
     </type>
     <type name="Battery9V">
-        <nominal>50</nominal>
+        <nominal>65</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>45</min>
+        <min>60</min>
         <quantmin>50</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -2711,6 +2711,7 @@
         <tag name="shelves"/>
         <usage name="Industrial"/>
         <usage name="Village"/>
+        <usage name="Farm"/>
     </type>
     <type name="BatteryCharger">
         <nominal>20</nominal>
@@ -17457,10 +17458,10 @@
         <usage name="Village"/>
     </type>
     <type name="Whetstone">
-        <nominal>50</nominal>
+        <nominal>65</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>47</min>
+        <min>55</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -17468,6 +17469,7 @@
         <category name="tools"/>
         <tag name="shelves"/>
         <usage name="Farm"/>
+        <usage name="Village"/>
     </type>
     <type name="WildboarPelt">
         <nominal>0</nominal>
